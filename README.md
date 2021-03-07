@@ -9,7 +9,7 @@ A submission project for the Advanced Systems Design class in Tel Aviv Universit
 Click [here](https://docs.google.com/document/d/1AO_RGoPiMQKQuKFt8E-IwjKXxxt9vnobH-0hfFAxGaQ/edit) to view the project specs
 
 ## Prerequisites
-    Python v3.8
+    Python v3.8+
     Node v10.0.0+
     npm v6.0.0+
     Docker v 18.06+
@@ -70,7 +70,7 @@ $ python -m cortex.cli get-user 1
 
 ## Deployment
 
-Each submodule (except for client and cli) comes with its own Dockerfile. All of those depend on the cortex-base image (It is build automatically during installation)
+Each submodule (except for client and cli) comes with its own Dockerfile. All of those depend on the cortex-base image (It is built automatically during installation)
 If you wish to build your own image of a submodule, simply run:
 
 ```sh
