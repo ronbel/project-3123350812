@@ -5,6 +5,9 @@
 
 A submission project for the Advanced Systems Design class in Tel Aviv University
 
+## Specifications Document
+Click [here](https://docs.google.com/document/d/1AO_RGoPiMQKQuKFt8E-IwjKXxxt9vnobH-0hfFAxGaQ/edit) to view the project specs
+
 ## Prerequisites
     Python v3.8
     Node v10.0.0+
